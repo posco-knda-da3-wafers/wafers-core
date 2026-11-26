@@ -249,8 +249,8 @@ $RECYCLE.BIN/
 *.joblib
 *.h5
 *.pt
-data/*
-!data/.gitkeep
+ml/data/*
+!ml/data/.gitkeep
 outputs/*
 !outputs/.gitkeep
 # API
